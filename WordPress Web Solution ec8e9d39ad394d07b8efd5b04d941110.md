@@ -4,7 +4,12 @@ In this project I will be building a 3 tier architecture to host a WordPress sit
 
 Below is my network IP and machine names.
 
-[Network](https://www.notion.so/135c7df4acc146d6966d28bd54cb3144)
+## IP information
+| Server/Machine Name  	|   IP	          | 
+|---	                  |             ---	|
+|  Client Machine 	    |192.168.1.110  	|
+| Web Server 	          |192.168.1.112 	  |
+| MariaDB	              |192.168.1.113   	|
 
 ## WordPress - Web Server Disk Partition:
 
