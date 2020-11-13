@@ -6,7 +6,7 @@
 
 ### 🏠 [Homepage](https://github.com/dinulhaque/web-solution-with-wordpress)
 
-### ✨ [Check out the project guide](https://github.com/dinulhaque/web-solution-with-wordpress)
+### ✨ [Check out the project guide](https://github.com/dinulhaque/web-solution-with-wordpress/blob/master/WordPress%20Web%20Solution%20ec8e9d39ad394d07b8efd5b04d941110.md)
 
 ## Author
 
